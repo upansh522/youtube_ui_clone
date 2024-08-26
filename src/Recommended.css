@@ -1,0 +1,13 @@
+.recommended_videos{
+    flex: 0.8;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-top: 15px;
+    padding-bottom: 0;
+    overflow-y: auto;
+}
+
+.recommended_videos > h2{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
